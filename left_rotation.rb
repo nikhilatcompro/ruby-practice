@@ -11,4 +11,4 @@ for i in 0...d
   arr[length-1] = temp
 end
 
-puts arr
+puts arr 
