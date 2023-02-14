@@ -10,7 +10,7 @@ for i in 0...arr.length
   end
 end
 
-if index.nil?
+if index == nil
   puts "Element not found"
 else
   puts "Element found at index #{index}"
